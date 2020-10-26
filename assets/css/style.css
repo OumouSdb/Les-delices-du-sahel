@@ -1,0 +1,150 @@
+.navbar{
+background: #e96a21; 
+   /*background-size: cover;*/
+   margin-top: -16px;
+   font-family: 'arial', cursive;
+   color: white;
+}
+.article{
+  text-decoration: none;
+  font-family: 'arial', cursive;
+}
+.marge{
+  overflow: hidden;
+}
+html, body{
+margin: 0;
+height: 100%;
+
+/*background: orange;*/
+}
+
+
+a{
+    text-decoration: none;
+
+    font-size: 20px;
+}
+.logo{
+  margin-top: 10px;
+border-radius: 50%;
+width: 30%;
+}
+
+.container-fluid{
+    width: 100%;
+    margin-top: -16px;
+   
+}
+
+
+/* .card{
+  width: 50%;
+  height: 30%;
+} */
+
+
+h1{
+  text-align: center;
+  color: #9E4633;
+  font-family: 'Dr Sugiyama', cursive;
+  padding-top: 10px;
+  text-align: center;
+
+}
+.centre{
+    margin: auto;
+}
+.container input[type=submit]{
+    margin: 20px auto ;
+    display: block;
+  }
+  .form-group{
+    margin: 20px auto ;
+    display: block;
+  }
+  /* .container{
+      background-color:#e96a21 ;
+     
+  } */
+  .input-group{
+    margin: 20px auto ;
+  }
+
+
+.wrapper{
+  min-height: 100%;
+  margin-bottom: 0 auto;
+  height: auto !important;
+  
+} 
+.footer, .push{
+  height: -50px;
+}
+
+#test{
+  height: 400px;
+  widows: 400px;
+  background: yellow;
+  position: fixed;
+  bottom: 0px;
+}
+
+.page-footer a{
+  color: brown;
+}
+.page-footer{
+ margin-top: 0px;
+}
+
+.footer-copyright a{
+  color: white;
+} 
+
+.container{
+  justify-content: center;
+  align-items: center;
+}
+
+.centre{
+  margin: auto;
+
+}
+
+.btn-centre{
+  text-align: center;
+ 
+}
+.bouton{
+box-shadow: none;
+display: inline-block;
+    font-weight: 400;
+    color: white;
+    background-color: #9e4633;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s
+}
+
+.animation{
+border: 2px solid white;
+
+}
+
+#presentation{
+   top: 27%;
+  position: absolute;
+  color: white;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  z-index: 2;
+}
+.text-center a :hover{
+color: white;
+}
+.hero{
+  position: relative;
+}
